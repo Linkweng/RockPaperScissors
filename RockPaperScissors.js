@@ -1,0 +1,1 @@
+Rock = document.getElementById('innerRock');
